@@ -1,4 +1,4 @@
-#Python for Web Development - Crash Course
+# Python for Web Development - Crash Course
 [API, SQL Databases, Virtual Environment, Flask, Django - 2 hr course](https://www.youtube.com/watch?v=WNvxR8RFzBg)
 
 ## Topics
@@ -13,6 +13,13 @@
  - Django Calculator App
 
 ## Resources:
+
+### YouTube Video
+
+ - https://www.youtube.com/watch?v=WNvxR8RFzBg
+
+### Possible code respository -- I never used, but mentioned during course ###
+
  **Caution** Always be caution with any code repository 
  **Review Youtube course before considering to use this provided link**
   (caution) https://codewithtomi.eo.page/mz396
