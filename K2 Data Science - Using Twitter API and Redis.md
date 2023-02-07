@@ -19,16 +19,17 @@ The link to Udemy is:
 
 ## About Course:
 
-File Organization
-1_twitter_stream: 
+### File Organization
+
+1_twitter_stream
 : Contains the Python script to download, filter and extract data from the Twitter Streaming API.
-2_sentiment: 
+2_sentiment
 : Contains the updated Python script to calculate and store sentiment scores for each tweet.
-3_redis: 
+3_redis
 : Contains the additional Python class to interface with a Redis server.
-4_design_front_end: 
+4_design_front_end
 : Contains the pen and paper mockup as well as the static front-end code.
-5_python_class: 
+5_python_class
 : Contains the Python class to pre-process each tweet prior to hitting the Flask app.
-6_flask: 
+6_flask
 : Contains the Flask app to read the last 15 tweets from Redis and display them.
